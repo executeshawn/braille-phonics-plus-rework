@@ -1,4 +1,4 @@
-# <img src="/public/logo-dark.png" alt="Logo Light Mode" width="32" height="32"> BraillePhonics+
+# <img src="/public/logo-light.png" alt="Logo Light Mode" width="32" height="32"> BraillePhonics+
 
 By Team ICE
 
