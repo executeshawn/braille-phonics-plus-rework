@@ -32,22 +32,28 @@ By Team ICE
    
    # Option B: ZIP Download
    - Download ZIP from GitHub → Extract → Open folder
+   ```
    
 2. Open Terminal in Project Folder
-   # Windows: Right-click folder → "Open in Terminal"
-   # Mac: Right-click → Services → New Terminal
-   # Linux: Open terminal in folder
+   - Windows: Right-click folder → "Open in Terminal"
+   - Mac: Right-click → Services → New Terminal
+   - Linux: Open terminal in folder
    
 3. Install Dependencies
+   ```shell
    npm install
+   ```
 
-4. Run Development Server
+5. Run Development Server
+   ```shell
    npm run dev
+   ```
    
-5. Open http://localhost:3000 
+7. Open `http://localhost:3000`
 
 Other Commands
-  npm run build    # Production build
-  npm run start    # Production server  
-  npm run lint     # Code quality check
-
+   ```shell
+   npm run build    # Production build
+   npm run start    # Production server  
+   npm run lint     # Code quality check
+   ```
